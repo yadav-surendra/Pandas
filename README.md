@@ -30,7 +30,7 @@ Welcome to the Pandas documentation and practice guide! This repo is a quick ref
 ```bash
 pip install pandas
 ```
-##📚 Contents
+## Contents
 Day1_Basics.ipynb - Series, DataFrames, indexing, selection
 
 Day2_Cleaning.ipynb - Handling missing data, merging, reshaping
@@ -40,5 +40,5 @@ Day3_Analysis.ipynb - GroupBy, pivot tables, export/import
 datasets/ - Sample datasets for practice
 
 
-🙌 Happy Learning!
+## 🙌 Happy Learning!
 Feel free to clone, fork, or contribute!..
